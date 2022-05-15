@@ -27,7 +27,6 @@ body {
   align-items: center;
 
   text-align: center;
-  /* font-size: 14px; */
   cursor: pointer;
 }
 
@@ -52,7 +51,6 @@ body {
   height: 100vh;
   margin: 0%;
   padding: 0%;
-  /* overflow: hidden; */
 }
 
 
